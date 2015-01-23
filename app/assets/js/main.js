@@ -49,7 +49,7 @@
 		// command name and description
 		var commandVerb = baba.render('verb.common')
 		var commandNoun = baba.render('noun.git')
-		$('#permalink').setAttribute('href', window.location.hostname + window.location.pathname + '/' + commandVerb + '-' + commandNoun + '#' + seed)
+		$('#permalink').setAttribute('href', "http://" + window.location.hostname + window.location.pathname + commandVerb + '-' + commandNoun + '#' + seed)
 		var commandNameRaw = ['git', commandVerb, commandNoun].join('-')
 
 		baba.setVariable('command-verb', commandVerb)
