@@ -125,6 +125,5 @@
 		}
 	}
 	refresh()
-	$('#refresh').addEventListener('click', refresh)
 
 })()
