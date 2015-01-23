@@ -1,10 +1,10 @@
-Baba: git man page generator
-============================
+Evil git man page generator
+===========================
 
-:Author: Kim Silkebækken (kim.silkebaekken@gmail.com)
+:Original Author: Kim Silkebækken (kim.silkebaekken@gmail.com)
 :Source: https://github.com/Lokaltog/baba-git-man-page-generator
 
-Git man page generator based on `Baba <https://github.com/Lokaltog/baba>`_, a garbage
-text generator inspired by the Dada Engine.
+:Evil Author: Daniel Ellis
+:Source: https://github.com/dellis23/evil-git-man-page-generator
 
-Live demo: http://git-man-page-generator.lokaltog.net/
+Live demo: http://git-scms.com/docs/
