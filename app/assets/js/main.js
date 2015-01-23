@@ -66,7 +66,7 @@
 			commandNameContainers[i].innerHTML = commandName
 		}
 
-		document.title = commandNameRaw + ' - git man page generator'
+		document.title = commandNameRaw + ' - ' + commandNameRaw + '(1) git man page'
 		$('.command-action').innerHTML = commandAction
 		$('.command-description').innerHTML = commandName + ' ' + commandDescription
 
